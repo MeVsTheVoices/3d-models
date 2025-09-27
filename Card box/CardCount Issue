@@ -1,0 +1,4 @@
+Once CardCount goes above 100-ish or even changed at all, we get the error message:
+
+⚠️	Sketcher:SketchObject:	Link(s) to object(s) 'Fillet' go out of the allowed scope 'Sketch007'. 
+Instead, the linked object(s) reside within 'Body001 Body001'.
